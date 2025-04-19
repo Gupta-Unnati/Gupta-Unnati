@@ -41,6 +41,7 @@ I'm currently working as an **HR Analyst** while building my skillset in **Busin
 - **Business Analysis** - [Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/0b4e6be093ff8c2166a30df9d11d5b6b08773db9b335c718f19f89af869d87bc?trk=share_certificate)
 - **Business Analytics Capstone** - [University of Pennsylvania](https://coursera.org/share/48e0219c5a05c18f2186f60f60a0931d)  
 - **Preparing Data for Analysis with Microsoft Excel** - [Microsoft](https://coursera.org/share/4929cdb806375998427dd3ce6f3bdb71)
+- **Business Intelligence Analyst Course** - [Udemy](https://ude.my/UC-3950d245-620c-406d-9a7b-ba2c73468a52)
 
 ### Experience
 **Pravdaa People Pvt Ltd** - HR Analyst  
