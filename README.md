@@ -1,6 +1,6 @@
 ## 👋 Hi there!! I'm Unnati Gupta
 
-**Aspiring Business Analyst | Expertise in Analysis, Reporting & Process Optimization | Delivering Data-Driven Insights & Strategic Consulting | Exploring Analytical Opportunities**
+**📊 Data & Business Analyst | SQL • Power BI • Excel • Tableau | Building Dashboards, Solving Business Problems, Delivering Data-Driven Insights**
 
 ---
 
@@ -53,7 +53,9 @@ I'm currently working as an **HR Analyst** while building my skillset in **Busin
 - Built automated dashboards for workforce analytics
 
 #### Let's Connect!!!
-📧**Email** : guptaunnati1220@gmail.com
+📧**Email**    : guptaunnati1220@gmail.com
+
+📑**Portfolio**  : [Portfolio Link](https://unnati-gupta-o55jrkp.gamma.site/)
 
 
 >_"Driven by curiosity, powered by insights — aiming to create impactful business solutions."_
