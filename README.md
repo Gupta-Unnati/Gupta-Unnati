@@ -1,6 +1,6 @@
 ## 👋 Hi there!! I'm Unnati Gupta
 
-**📊 Data & Business Analyst | SQL • Power BI • Excel • Tableau | Building Dashboards, Solving Business Problems, Delivering Data-Driven Insights**
+**📊 Data Analyst & Business Analyst | SQL • Power BI • Excel • Tableau | Building Dashboards, Solving Business Problems, Delivering Data-Driven Insights**
 
 ---
 
