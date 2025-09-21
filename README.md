@@ -20,22 +20,6 @@ I'm currently working as an **HR Analyst** while building my skillset in **Busin
 
 ---
 
-### Projects
-
-#### **Sales Data Analysis (Personal Projects)**
-
-- Cleaned and analyzed large datasets using SQL and Excel.  
-- Designed interactive Power BI dashboards to track revenue trends and improve decision-making by **20%**.  
-- Automated data pipelines to reduce manual processing time by **40%**.
-
-#### **Business Analytics Capstone (Coursera - University of Pennsylvania)**
-
-- Conducted research on GYF Ad Blocker to mitigate revenue loss.  
-- Developed Tableau dashboards for strategic insights.
-
-
----
-
 ### Certifications
 
 - **Business Analysis** - [Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/0b4e6be093ff8c2166a30df9d11d5b6b08773db9b335c718f19f89af869d87bc?trk=share_certificate)
