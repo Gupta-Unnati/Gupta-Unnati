@@ -32,10 +32,6 @@ I'm currently working as an **HR Analyst** while building my skillset in **Busin
 - Developed data-backed solutions for strategic decision-making.  
 - Created interactive dashboards and KPI reports for performance tracking.
 
-**Astral Minds Consulting** - Talent Analytics Consultant  
-- Analyzed recruitment metrics and optimized hiring strategies, reducing time-to-fill by **30%**.  
-- Built automated dashboards for workforce analytics
-
 #### Let's Connect!!!
 📧**Email**    : guptaunnati1220@gmail.com
 
