@@ -28,7 +28,7 @@ I'm currently working as an **HR Analyst** while building my skillset in **Busin
 - **Business Intelligence Analyst Course** - [Udemy](https://ude.my/UC-3950d245-620c-406d-9a7b-ba2c73468a52)
 
 ### Experience
-**Pravdaa People Pvt Ltd** - HR Analyst  
+**Pravdaa People Pvt Ltd** - Analyst  
 - Developed data-backed solutions for strategic decision-making.  
 - Created interactive dashboards and KPI reports for performance tracking.
 
